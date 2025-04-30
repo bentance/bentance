@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
 
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFncnExaHJtcW13YmYzOGNzN2Vqbjc2OWgyMjZzbnJvZDd5ZWo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YowxXAyHvq8HS/giphy.gif)
 
