@@ -1,6 +1,4 @@
-![Another Animated GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI4aTRpeTRremNsMXJleGI1a3dyb2VndjB1MDUyeGRtbjMzendsaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcLrffHbM57Xet7eWN/giphy.gif)
-
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="500">
 
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFncnExaHJtcW13YmYzOGNzN2Vqbjc2OWgyMjZzbnJvZDd5ZWo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YowxXAyHvq8HS/giphy.gif)
 
