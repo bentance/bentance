@@ -2,7 +2,11 @@
 
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFncnExaHJtcW13YmYzOGNzN2Vqbjc2OWgyMjZzbnJvZDd5ZWo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YowxXAyHvq8HS/giphy.gif)
 
+<p>
 <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
+<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
+<p/>
 
 <!--
 **bentance/bentance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
