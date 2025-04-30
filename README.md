@@ -7,7 +7,7 @@
 ![Animated GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFncnExaHJtcW13YmYzOGNzN2Vqbjc2OWgyMjZzbnJvZDd5ZWo3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YowxXAyHvq8HS/giphy.gif)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 
 
 <p>
