@@ -16,6 +16,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
 <p/>
 
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+
 <!--
 **bentance/bentance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
